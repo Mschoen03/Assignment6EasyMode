@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "com.unity.2d.animation": "5.2.7",
+    "com.unity.cinemachine": "2.6.17",
+    "com.unity.inputsystem": "1.5.1",
+    "com.unity.probuilder": "4.5.2",
+    "com.unity.progrids": "3.0.3-preview.6",
+    "com.unity.render-pipelines.core": "10.10.1",
+    "com.unity.textmeshpro": "3.0.9",
+    "com.unity.timeline": "1.4.8",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.particlesystem": "1.0.0",
+    "com.unity.modules.physics": "1.0.0"
+  }
+}
