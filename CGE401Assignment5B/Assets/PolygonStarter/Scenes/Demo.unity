@@ -26233,6 +26233,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6739970202958300221, guid: cff1b136f70c4854da39b336375d3009, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6739970202958300221, guid: cff1b136f70c4854da39b336375d3009, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6739970202958300221, guid: cff1b136f70c4854da39b336375d3009, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6739970203439202387, guid: cff1b136f70c4854da39b336375d3009, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -26320,6 +26332,14 @@ PrefabInstance:
     - target: {fileID: 6739970203439202476, guid: cff1b136f70c4854da39b336375d3009, type: 3}
       propertyPath: m_AdditionalShaderChannelsFlag
       value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 6739970203439202477, guid: cff1b136f70c4854da39b336375d3009, type: 3}
+      propertyPath: m_ReferenceResolution.x
+      value: 1280
+      objectReference: {fileID: 0}
+    - target: {fileID: 6739970203439202477, guid: cff1b136f70c4854da39b336375d3009, type: 3}
+      propertyPath: m_ReferenceResolution.y
+      value: 720
       objectReference: {fileID: 0}
     - target: {fileID: 6739970203439202479, guid: cff1b136f70c4854da39b336375d3009, type: 3}
       propertyPath: m_Name
